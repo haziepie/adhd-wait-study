@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 400" width="1080" height="400">
+ <rect width="1080" height="400" fill="#F3E3D6"/>
+ <!-- window -->
+ <rect x="110" y="40" width="210" height="170" rx="14" fill="#E3EEF0"/>
+ <path d="M215 40v170M110 125h210" stroke="#F3E3D6" stroke-width="10"/>
+ <g transform="translate(0,90)">
+ <!-- plant -->
+ <rect x="860" y="190" width="60" height="56" rx="10" fill="#D9A58B"/>
+ <path d="M890 190c-30-40-40-80-10-110M890 190c10-50 40-70 70-70M890 190c-20-30-60-40-80-30" stroke="#8FB49A" stroke-width="14" fill="none" stroke-linecap="round"/>
+ <!-- lamp -->
+ <path d="M760 246v-120l-50-40" stroke="#6E6470" stroke-width="8" fill="none" stroke-linecap="round"/>
+ <path d="M680 70l70 30-40 40z" fill="#F2C46D"/>
+ <!-- parent -->
+ <circle cx="420" cy="118" r="44" fill="#C98F6E"/>
+ <path d="M376 112c0-40 30-58 52-56 30 2 42 22 38 50-14-20-40-26-62-18-14 6-22 14-28 24z" fill="#5A4038"/>
+ <path d="M330 300c0-90 40-130 90-130s90 40 90 130z" fill="#9DB8A5"/>
+ <!-- child -->
+ <circle cx="590" cy="172" r="34" fill="#E2B08E"/>
+ <path d="M556 168c-2-30 20-48 40-46 22 2 34 20 30 40-10-14-30-18-46-12-12 4-18 10-24 18z" fill="#3E3030"/>
+ <path d="M520 300c0-60 30-90 70-90s70 30 70 90z" fill="#E8A99A"/>
+ <!-- parent arm pointing to book -->
+ <path d="M470 215c35 18 60 30 82 34" stroke="#9DB8A5" stroke-width="26" stroke-linecap="round" fill="none"/>
+ <circle cx="560" cy="254" r="13" fill="#C98F6E"/>
+ <!-- table -->
+ <rect x="60" y="246" width="960" height="30" rx="8" fill="#C79C7E"/>
+ <rect x="60" y="276" width="960" height="124" fill="#E9D3C2"/>
+ <!-- book + pencil -->
+ <path d="M520 246l70-14 70 14z" fill="#FFFFFF"/>
+ <path d="M590 232v14" stroke="#D8C8BC" stroke-width="3"/>
+ <path d="M630 220l24 22" stroke="#E7B84F" stroke-width="8" stroke-linecap="round"/>
+ <rect x="380" y="226" width="80" height="20" rx="4" fill="#B9CCE0"/>
+ <rect x="384" y="210" width="72" height="16" rx="4" fill="#E8A99A"/>
+ <!-- mug -->
+ <rect x="250" y="208" width="40" height="38" rx="8" fill="#FFFFFF"/>
+ <path d="M290 216c16 0 16 22 0 22" stroke="#FFFFFF" stroke-width="7" fill="none"/>
+ </g>
+</svg>
